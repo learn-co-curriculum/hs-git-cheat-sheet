@@ -39,4 +39,4 @@ Git got you freaked? It's normal. There are a lot of commands that have control 
 3. Copy the SSH clone link on the right side of the new page.
 4. Navigate to the development folder in your terminal and type `git clone [copied_text]`
 5. cd into the folder you downloaded on your computer.
-<a href='https://learn.co/lessons/hs-git-cheat-sheet' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-git-cheat-sheet' title='Git Cheat Sheet'>Git Cheat Sheet</a> on Learn.co and start learning to code for free.</p>
